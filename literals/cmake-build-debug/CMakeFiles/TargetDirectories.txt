@@ -1,0 +1,3 @@
+C:/Users/48576/Desktop/Zadania CLion/solutions/literals/cmake-build-debug/CMakeFiles/literals__debug.dir
+C:/Users/48576/Desktop/Zadania CLion/solutions/literals/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/48576/Desktop/Zadania CLion/solutions/literals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
